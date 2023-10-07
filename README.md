@@ -1,4 +1,10 @@
-### Hi there 👋
+
+- 👨‍💻 Java, Python, HTML/CSS & JS developer.
+- ⚙️ SysAdmin
+- 🎮 Videos Games Player
+- 🌱 Currently learning React.js
+- 🌍 Live in France
+- 👨‍🎓 Currently in 12th Grades
 
 <!--
 **imimet/imimet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

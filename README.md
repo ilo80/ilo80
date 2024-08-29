@@ -1,4 +1,4 @@
 ## Hi there 👋 !
-- 👨‍💻 Java, Python, HTML/CSS & JS developer.
+- 👨‍💻 JS, C# and Python developer.
 - 🌍 Live in France
-- 👨‍🎓 High school senior
+- 👨‍🎓 ESIEE Paris student
